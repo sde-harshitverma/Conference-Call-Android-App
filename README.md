@@ -37,6 +37,14 @@ It allows users to join meetings quickly by entering a room name or code and sta
 - Jitsi Meet SDK
 - Gradle build system
 
+## APK
+
+Download the APK here:
+- [Conferenceium APK](https://drive.google.com/file/d/1bNAR0EK9ibkbhmJqKVRpQC7LmNxX2-3G/view?usp=sharing)
+
+Local project APK (if available):
+- `apk_file/app-release.apk`
+
 ## App Screenshots
 
 ### App Icon
